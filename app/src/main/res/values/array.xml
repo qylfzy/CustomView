@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="CustomView_Type">
+        <item>五角星</item>
+        <item>蜘蛛网</item>
+        <item>支付宝支付动画</item>
+        <item>圆形图片</item>
+        <item>贝济埃曲线之手写签名</item>
+        <item>贝济埃曲线之水波纹</item>
+    </string-array>
+
+</resources>

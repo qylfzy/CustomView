@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="q_img_scr" format="reference" />
+        <attr name="q_ciecle_color" format="color" />
+        <attr name="q_circle_border_width" format="dimension" />
+        <attr name="q_show_border" format="boolean" />
+    </declare-styleable>
+</resources>
